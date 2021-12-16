@@ -1,0 +1,809 @@
+"site","date","sample_id","phylum","class","sub_class","order","family","genus","species","abundance","origin"
+"A","2016-06-24","A_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1832,1
+"A","2016-06-24","A_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,26,1
+"A","2016-06-24","A_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,3,1
+"A","2016-06-24","A_2016-06-24","Mollusca",NA,NA,NA,NA,NA,NA,11,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",477,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,8,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydrophilidae",NA,NA,4,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,435,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Dolichopodidae",NA,NA,1,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,9,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,477,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,3,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,1,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,659,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,2,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,5,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,198,1
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Dytiscidae","Agabus",NA,1,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",1,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,5,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",2,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae","Hydraena",NA,1,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche angustipennis",28,2
+"A","2016-06-24","A_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",99,2
+"B","2016-06-24","B_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,43,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,7,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,14,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,832,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,1,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,23,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,8,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,313,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,3,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,16,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,289,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,1,1
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",7,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",2,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Oligoneuriidae","Oligoneuriella","Oligoneuriella rhenana",1,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",58,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Rhyacophilidae","Rhyacophila",NA,1,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,1,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,8,2
+"B","2016-06-24","B_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Limnius",NA,2,2
+"C","2016-06-24","C_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,854,1
+"C","2016-06-24","C_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,5,1
+"C","2016-06-24","C_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,11,1
+"C","2016-06-24","C_2016-06-24","Mollusca","Gastropoda",NA,NA,NA,NA,NA,2,1
+"C","2016-06-24","C_2016-06-24","Mollusca","Bivalvia",NA,NA,NA,NA,NA,832,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",47,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",1,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydrophilidae",NA,NA,5,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,747,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Dixidae",NA,NA,3,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,29,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,4,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,28,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,3,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,678,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,5,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,14,1
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Annitella",NA,1,2
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Calopterygidae","Calopteryx","Calopteryx virgo",11,2
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",2,2
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae","Hydraena",NA,1,2
+"C","2016-06-24","C_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Platycnemididae","Platycnemis",NA,1,2
+"D","2016-06-24","D_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,35,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",26,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,156,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,17,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,485,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,8,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,48,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,90,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,3,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,17,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,76,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,306,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,2,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,1,1
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",3,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",1,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,4,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",83,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,176,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae","Hydraena",NA,2,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",23,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Limnius",NA,1,2
+"D","2016-06-24","D_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,3,2
+"E","2016-06-24","E_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,573,1
+"E","2016-06-24","E_2016-06-24","Mollusca","Bivalvia",NA,NA,NA,NA,NA,1,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",3,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,2,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,327,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,2,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,1,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,13,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Megaloptera","Sialidae","Sialis",NA,3,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Corduliidae",NA,NA,1,1
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",3,2
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"E","2016-06-24","E_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax",NA,1,2
+"F","2016-06-24","F_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,4,1
+"F","2016-06-24","F_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,4,1
+"F","2016-06-24","F_2016-06-24","Annelida","Clitellata","Hirudinea","Hirudinida","Hirudinidae","Hirudo",NA,1,1
+"F","2016-06-24","F_2016-06-24","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"F","2016-06-24","F_2016-06-24","Mollusca","Bivalvia",NA,NA,NA,NA,NA,1,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",56,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",245,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,200,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,1,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,126,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Corduliidae",NA,NA,4,1
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Gyrinidae","Gyrinus",NA,1,2
+"F","2016-06-24","F_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Lestidae","Sympecma",NA,4,2
+"G","2016-06-24","G_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,30,1
+"G","2016-06-24","G_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,3,1
+"G","2016-06-24","G_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,2,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",3132,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",8,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,16,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,6,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Megaloptera","Sialidae","Sialis",NA,1,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,4,1
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",6,2
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche angustipennis",6,2
+"G","2016-06-24","G_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax",NA,1,2
+"H","2016-06-24","H_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,587,1
+"H","2016-06-24","H_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",1,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,107,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,2,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,10,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,30,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,3,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Athripsodes",NA,1,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,36,1
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",4,2
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,5,2
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae","Hydraena",NA,2,2
+"H","2016-06-24","H_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",45,2
+"I","2016-06-24","I_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,25,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",1,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,2,1
+"I","2016-06-24","I_2016-06-24","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,1,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,2,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydrophilidae",NA,NA,2,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,75,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,1,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,9,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,111,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,6,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,3,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Athripsodes",NA,7,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,2,1
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"I","2016-06-24","I_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",2,2
+"K","2016-06-24","K_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,49,1
+"K","2016-06-24","K_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",39,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,1,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,2,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,2,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,341,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,3,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,2,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,6,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,3,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,23,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,21,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,11,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,94,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,4,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,71,1
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",25,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus","Ecdyonurus dispar",5,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,1,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",152,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus digitatus",1,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",11,2
+"K","2016-06-24","K_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",3,2
+"L","2016-06-24","L_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,30,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,12,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,12,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,30,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,1,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,1,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,2,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,1,1
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",1,2
+"L","2016-06-24","L_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,3,2
+"M","2016-06-24","M_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,21,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",507,1
+"M","2016-06-24","M_2016-06-24","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,5,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,10,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,72,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,20,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,5,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,1,1
+"M","2016-06-24","M_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",12,2
+"N","2016-06-24","N_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,34,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",178,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,8,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae",NA,NA,2,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,37,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Dixidae",NA,NA,13,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,17,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,46,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,313,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,20,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,4,1
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",1,2
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,98,2
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Limnius",NA,4,2
+"N","2016-06-24","N_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Platycnemididae","Platycnemis",NA,1,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,637,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,3,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,2,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Mollusca","Bivalvia",NA,NA,NA,NA,NA,5,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",1544,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,1,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,1,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,44,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,169,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,59,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,3,1
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",1,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Cordulegastridae","Cordulegaster",NA,1,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,13,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Polycentropodidae","Plectrocnemia",NA,1,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax","Potamophylax rotundipennis",1,2
+"O.UP","2016-06-24","O.UP_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,2,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,78,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,5,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Mollusca","Bivalvia",NA,NA,NA,NA,NA,2,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",4335,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,2,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,4,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,8,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,4,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,1,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,27,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,48,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,2,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Rhyacophilidae","Rhyacophila",NA,1,1
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",1,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,8,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,1,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Stenophylax","Stenophylax nycterobius",1,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"O.DOWN","2016-06-24","O.DOWN_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,1,2
+"P","2016-06-24","P_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,553,1
+"P","2016-06-24","P_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"P","2016-06-24","P_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",23,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,81,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,8,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,7,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,6,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,14,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,1,1
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",13,2
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",4,2
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus",1,2
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,9,2
+"P","2016-06-24","P_2016-06-24","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"P","2016-06-24","P_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Platycnemididae","Platycnemis",NA,2,2
+"Q","2016-06-24","Q_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,2418,1
+"Q","2016-06-24","Q_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,3,1
+"Q","2016-06-24","Q_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,1,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",16,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,34,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,24,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,23,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,4,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,1,1
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",3,2
+"Q","2016-06-24","Q_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"Q","2016-06-24","Q_2016-06-24","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,2,2
+"R","2016-06-24","R_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,640,1
+"R","2016-06-24","R_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,4,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",1,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,453,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,6,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Stratiomyidae",NA,NA,1,1
+"R","2016-06-24","R_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,5,1
+"S","2016-06-24","S_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,2,1
+"S","2016-06-24","S_2016-06-24","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",2,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,9,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,1,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,26,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,11,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,161,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,2,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,36,1
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",8,2
+"S","2016-06-24","S_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",3,2
+"T","2016-06-24","T_2016-06-24","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,41,1
+"T","2016-06-24","T_2016-06-24","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Piscicolidae","Piscicola",NA,1,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",29,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",5,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,86,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,12,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,50,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,5,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,9,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,69,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,5,1
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",16,2
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus","Ecdyonurus dispar",2,2
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,1,2
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",34,2
+"T","2016-06-24","T_2016-06-24","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",2,2
+"A","2016-04-18","A_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,5714,1
+"A","2016-04-18","A_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,23,1
+"A","2016-04-18","A_2016-04-18","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,10,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",35,1
+"A","2016-04-18","A_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,15,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,1,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,7,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,35,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,4367,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,1,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ephydridae",NA,NA,2,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,11,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,1,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,5,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,165,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,2,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,41,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,2,1
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",1,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",3,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,10,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",1,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche angustipennis",55,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",27,2
+"A","2016-04-18","A_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,7,2
+"A","2016-04-18","A_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Libellulidae","Orthetrum","Orthetrum coerulescens",1,2
+"A","2016-04-18","A_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,70,2
+"B","2016-04-18","B_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,716,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,1,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,5,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,3,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,1386,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Dolichopodidae",NA,NA,1,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,1,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,43,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,4,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,27,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Polycentropodidae","Holocentropus",NA,2,1
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",8,2
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Electrogena","Electrogena affinis",1,2
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",8,2
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,7,2
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,1,2
+"B","2016-04-18","B_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Setodes",NA,1,2
+"C","2016-04-18","C_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,125,1
+"C","2016-04-18","C_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,2,1
+"C","2016-04-18","C_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",35,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,39,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,63,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,577,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,4,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,13,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae",NA,NA,1,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,1,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,3,1
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",2,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Annitella",NA,3,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Calopterygidae","Calopteryx","Calopteryx virgo",2,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa",3,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,1,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Scritidae","Elodes",NA,2,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus radiatus",1,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",8,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",2,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",5,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",13,2
+"C","2016-04-18","C_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,3,2
+"C","2016-04-18","C_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,222,2
+"C","2016-04-18","C_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax",NA,10,2
+"D","2016-04-18","D_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,344,1
+"D","2016-04-18","D_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"D","2016-04-18","D_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",7,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",1,1
+"D","2016-04-18","D_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,3,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,31,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,2,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,19,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,285,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,10,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,2,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,68,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,22,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemeridae","Ephemera",NA,2,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,468,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae",NA,NA,2,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,19,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Rhyacophilidae","Rhyacophila",NA,10,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,33,1
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",6,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",11,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,7,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica",1,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",104,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,24,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus",2,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",2,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",27,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,38,2
+"D","2016-04-18","D_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,1,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",5,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Gyrinidae","Orectochilus",NA,1,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Libellulidae","Orthetrum","Orthetrum coerulescens",1,2
+"D","2016-04-18","D_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,2,2
+"D","2016-04-18","D_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Setodes",NA,1,2
+"E","2016-04-18","E_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1459,1
+"E","2016-04-18","E_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"E","2016-04-18","E_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,2,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",3,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,6,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,2,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,221,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,4,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,9,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,74,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,21,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Corixidae","Micronecta",NA,1,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Nepidae","Nepa",NA,1,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,1,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,20,1
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",3,2
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",158,2
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",2,2
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",2,2
+"E","2016-04-18","E_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",3,2
+"E","2016-04-18","E_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,1,2
+"E","2016-04-18","E_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"F","2016-04-18","F_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,968,1
+"F","2016-04-18","F_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"F","2016-04-18","F_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,3,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",29,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",167,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,48,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Branchiopoda",NA,"Cladocera",NA,NA,NA,1,1
+"F","2016-04-18","F_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,77,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,60,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,49,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Dixidae",NA,NA,1,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,1,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Stratiomyidae",NA,NA,2,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,304,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,202,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Siphlonuridae","Siphlonurus",NA,37,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,114,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,4,1
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",1,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus auricula",1,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",4,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",1,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus stigma",1,2
+"F","2016-04-18","F_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,6,2
+"F","2016-04-18","F_2016-04-18","Mollusca","Gastropoda",NA,NA,"Physidae",NA,NA,5,2
+"F","2016-04-18","F_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,20,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Stenophylax","Stenophylax permistus",1,2
+"F","2016-04-18","F_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Lestidae","Sympecma",NA,1,2
+"G","2016-04-18","G_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,19,1
+"G","2016-04-18","G_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,3,1
+"G","2016-04-18","G_2016-04-18","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,1,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",771,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",792,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,1,1
+"G","2016-04-18","G_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,1,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,4,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,31,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,6,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Stratiomyidae",NA,NA,1,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae",NA,NA,5,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,14,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,7,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,3,1
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche angustipennis",17,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche pellucidula",1,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",8,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",1,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",8,2
+"G","2016-04-18","G_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,4,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Micropterna","Micropterna testacea",1,2
+"G","2016-04-18","G_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax",NA,12,2
+"G","2016-04-18","G_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Stenophylax","Stenophylax permistus",3,2
+"H","2016-04-18","H_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,2482,1
+"H","2016-04-18","H_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,2,1
+"H","2016-04-18","H_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",3,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,14,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,682,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,390,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,4,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,73,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Corixidae","Micronecta",NA,1,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Athripsodes",NA,1,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydrophilidae","Hydroptila",NA,6,1
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",78,2
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",13,2
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",48,2
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",1,2
+"H","2016-04-18","H_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",1,2
+"H","2016-04-18","H_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"I","2016-04-18","I_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,855,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",1,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,55,1
+"I","2016-04-18","I_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,1,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae",NA,NA,1,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,28,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,254,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,3,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,77,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,3,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,1,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,7,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,3,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,17,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,477,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Amphinemura",NA,6,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Athripsodes",NA,16,1
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",2,2
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",1,2
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",242,2
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",1,2
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",1,2
+"I","2016-04-18","I_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",3,2
+"I","2016-04-18","I_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,4,2
+"K","2016-04-18","K_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1967,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",41,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,1,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,10,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,299,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,5,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,2,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,1,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,10,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,22,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae",NA,NA,4,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae",NA,NA,2,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Amphinemura",NA,1,1
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",10,2
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Annitella",NA,3,2
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",82,2
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",220,2
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",7,2
+"K","2016-04-18","K_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",4,2
+"L","2016-04-18","L_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,373,1
+"L","2016-04-18","L_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,11,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,21,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,2,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,6,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,350,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,1,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,3,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,43,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,1,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,5,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,263,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habroleptoides",NA,5,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,108,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Rhithrogena",NA,1,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Amphinemura",NA,9,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Perlodidae","Isoperla",NA,2,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Leuctridae","Leuctra",NA,1,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,15,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Protonemura",NA,80,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Glossosomatidae","Agapetus",NA,3,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Athripsodes",NA,11,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,2,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,13,1
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,5,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",113,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Esolus",NA,2,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Glossosomatidae","Glossosoma",NA,3,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",3,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Hydraenidae","Hydraena",NA,11,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche fulvipes",1,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",1,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Micropterna","Micropterna testacea",1,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Potamophylax",NA,4,2
+"L","2016-04-18","L_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Rhithrogena","Rhithrogena semicolorata",1,2
+"M","2016-04-18","M_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,7049,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",84,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,2,1
+"M","2016-04-18","M_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,29,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,20,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,1674,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,19,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,4,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,5,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Electrogena",NA,1,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,86,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,29,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,1,1
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",25,2
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",2,2
+"M","2016-04-18","M_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,1,2
+"M","2016-04-18","M_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"M","2016-04-18","M_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Siphlonuridae","Siphlonurus",NA,12,2
+"N","2016-04-18","N_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,2993,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",42,1
+"N","2016-04-18","N_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,6,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,11,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,3,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,502,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,22,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,2,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,12,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,44,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae",NA,NA,1,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Corixidae","Micronecta",NA,1,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,3,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydrophilidae","Hydroptila",NA,2,1
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,64,2
+"N","2016-04-18","N_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche saxonica",1,2
+"O","2016-04-18","O_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,3,1
+"O","2016-04-18","O_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,4,1
+"O","2016-04-18","O_2016-04-18","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,1,1
+"O","2016-04-18","O_2016-04-18","Annelida","Clitellata","Hirudinea","Hirudinida","Hirudinidae","Hirudo",NA,1,1
+"O","2016-04-18","O_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,23,1
+"O","2016-04-18","O_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,11,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",607,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,4,1
+"O","2016-04-18","O_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,8,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,13,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,1,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,21,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,10,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Dolichopodidae",NA,NA,2,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,4,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,2,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,4,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,2,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,3,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,3,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,16,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Polycentropodidae","Holocentropus",NA,1,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,6,1
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",7,2
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,15,2
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Halesus","Halesus tessellatus",1,2
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Stenophylax","Stenophylax nycterobius",6,2
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",1,2
+"O","2016-04-18","O_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,2,2
+"O","2016-04-18","O_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,1,2
+"P","2016-04-18","P_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1456,1
+"P","2016-04-18","P_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,3,1
+"P","2016-04-18","P_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",31,1
+"P","2016-04-18","P_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,4,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae",NA,NA,2,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,41,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,467,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,16,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,5,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,7,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,2,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella",NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Aphelocheiridae","Aphelocheirus","Aphelocheirus aestivalis",6,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Corixidae","Micronecta",NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,4,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Psychomyiidae","Psychomyia",NA,1,1
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",1,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",96,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,9,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica",3,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",2,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus",1,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",1,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Limnius",NA,2,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Oulimnius",NA,1,2
+"P","2016-04-18","P_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,10,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Platycnemididae","Platycnemis",NA,1,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Psychomyiidae","Psychomyia","Psychomyia pusilla",3,2
+"P","2016-04-18","P_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Riolus",NA,2,2
+"Q","2016-04-18","Q_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,6728,1
+"Q","2016-04-18","Q_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"Q","2016-04-18","Q_2016-04-18","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,1,1
+"Q","2016-04-18","Q_2016-04-18","Annelida","Clitellata","Hirudinea","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,2,1
+"Q","2016-04-18","Q_2016-04-18","Mollusca","Bivalvia",NA,NA,NA,NA,NA,66,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",56,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,12,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,275,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,738,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Dolichopodidae",NA,NA,1,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,18,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,8,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,15,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,2,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,294,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,1,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,3,1
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",1,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Annitella",NA,5,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",4,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Haliplidae","Haliplus",NA,1,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia",1,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus auricula",17,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",36,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus",1,2
+"Q","2016-04-18","Q_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,14,2
+"Q","2016-04-18","Q_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,166,2
+"Q","2016-04-18","Q_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Platycnemididae","Platycnemis",NA,1,2
+"Q","2016-04-18","Q_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,"Radix",NA,3,2
+"R","2016-04-18","R_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,5666,1
+"R","2016-04-18","R_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,3,1
+"R","2016-04-18","R_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,21,1
+"S","2016-04-18","S_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,47,1
+"S","2016-04-18","S_2016-04-18","Annelida","Clitellata","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,1,1
+"S","2016-04-18","S_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,2,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",4,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Malacostraca",NA,"Isopoda","Asellidae","Asellus","Asellus aquaticus",8,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Maxillopoda","Copepoda",NA,NA,NA,NA,2,1
+"S","2016-04-18","S_2016-04-18","Arthropoda",NA,"Ostracoda",NA,NA,NA,NA,3,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Arachnida","Acari","Trombidiformes",NA,NA,NA,10,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,53,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,384,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,11,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,164,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tabanidae",NA,NA,8,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,1,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Baetidae","Baetis",NA,7,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis",NA,18,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae","Ecdyonurus",NA,6,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Hemiptera","Corixidae","Micronecta",NA,22,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,1,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche",NA,2,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,7,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae",NA,NA,1,1
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Anabolia","Anabolia furcata",3,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",80,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",35,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",9,2
+"S","2016-04-18","S_2016-04-18","Mollusca","Gastropoda",NA,"Lymnaeidae",NA,NA,NA,1,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus",1,2
+"S","2016-04-18","S_2016-04-18","Mollusca","Bivalvia",NA,"Veneroida","Sphaeriidae","Pisidium",NA,1,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Scritidae","Scirtes",NA,1,2
+"S","2016-04-18","S_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Leptoceridae","Setodes",NA,1,2
+"T","2016-04-18","T_2016-04-18","Annelida","Clitellata","Oligochaeta",NA,NA,NA,NA,1987,1
+"T","2016-04-18","T_2016-04-18","Mollusca","Gastropoda",NA,NA,NA,NA,NA,1,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Malacostraca",NA,"Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus",5,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Ceratopogonidae",NA,NA,28,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Chironomidae",NA,NA,398,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Empididae",NA,NA,33,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Limoniidae",NA,NA,1,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Psychodidae",NA,NA,1,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Simuliidae",NA,NA,10,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Diptera","Tipulidae",NA,NA,2,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,6,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Heptageniidae",NA,NA,5,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Corduliidae",NA,NA,1,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Plecoptera","Nemouridae","Nemoura",NA,1,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydroptilidae","Hydroptila",NA,5,1
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Caenidae","Caenis","Caenis luctuosa",174,2
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Coleoptera","Elmidae","Elmis",NA,4,2
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita",3,2
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus",1,2
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera",1,2
+"T","2016-04-18","T_2016-04-18","Arthropoda","Insecta",NA,"Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus",1,2

@@ -1,0 +1,849 @@
+"site","month","class","order","family","genus","species","Taxa","abundance","spear_class"
+"A","June","Insecta","Coleoptera","Dytiscidae","Agabus",NA,"Agabus",1,0
+"A","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",1,1
+"A","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",659,0
+"A","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",165,0
+"A","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",15,0
+"A","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",2,1
+"A","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",1,1
+"A","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",3,1
+"A","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",1,0
+"A","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",35,0
+"A","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",435,0
+"A","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",4367,0
+"A","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",1,0
+"A","June","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"A","June","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"A","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",5,0
+"A","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",10,0
+"A","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",1,0
+"A","April","Insecta","Diptera","Ephydridae",NA,NA,"Ephydridae",2,0
+"A","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",26,0
+"A","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",23,0
+"A","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",477,0
+"A","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",35,0
+"A","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,"Helobdella",3,0
+"A","April","Clitellata","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,"Helobdella",10,0
+"A","June","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",1,0
+"A","June","Insecta","Coleoptera","Hydrophilidae",NA,NA,"Hydrophilidae",4,0
+"A","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",198,0
+"A","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",41,0
+"A","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche augustipennis","Hydropsyche augustipennis",28,0
+"A","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche augustipennis","Hydropsyche augustipennis",55,0
+"A","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",99,0
+"A","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",27,0
+"A","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",2,1
+"A","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",9,0
+"A","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",7,0
+"A","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",2,0
+"A","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",1832,0
+"A","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",5714,0
+"A","April","Insecta","Odonata","Libellulidae","Orthetrum","Orthetrum coerulescens","Orthetrum coerulescens",1,0
+"A","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",70,0
+"A","June","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"A","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",11,0
+"A","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",5,0
+"A","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",2,0
+"A","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"A","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",477,0
+"A","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",1,0
+"A","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",3,0
+"A","June","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",1,0
+"A","April","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",5,0
+"B","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",313,0
+"B","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",43,0
+"B","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",4,1
+"B","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",7,1
+"B","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",8,1
+"B","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",14,0
+"B","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",3,0
+"B","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",832,0
+"B","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",1386,0
+"B","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",1,0
+"B","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"B","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"B","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",3,1
+"B","April","Insecta","Ephemeroptera","Heptageniidae","Electrogena","Electrogena affinis","Electrogena affinis",1,1
+"B","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"B","June","Insecta","Diptera","Empididae",NA,NA,"Empididae",1,0
+"B","June","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",8,0
+"B","April","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",7,0
+"B","April","Insecta","Trichoptera","Polycentropodidae","Holocentropus",NA,"Holocentropus",2,1
+"B","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",289,0
+"B","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",58,0
+"B","June","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",1,1
+"B","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",1,1
+"B","June","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",16,1
+"B","June","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",2,0
+"B","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",23,0
+"B","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",43,0
+"B","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",716,0
+"B","June","Insecta","Ephemeroptera","Oligoneuriidae","Oligoneuriella","Oligoneuriella rhenana","Oligoneuriella rhenana",1,1
+"B","June","Insecta","Trichoptera","Rhyacophilidae","Rhyacophila",NA,"Rhyacophila",1,1
+"B","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",27,0
+"B","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",2,0
+"B","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",8,0
+"B","April","Insecta","Trichoptera","Leptoceridae","Setodes",NA,"Setodes",1,0
+"B","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",8,0
+"B","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",1,0
+"B","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"C","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",2,1
+"C","June","Insecta","Trichoptera","Limnephilidae","Annitella",NA,"Annitella",1,1
+"C","April","Insecta","Trichoptera","Limnephilidae","Annitella",NA,"Annitella",3,1
+"C","June","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",1,0
+"C","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",678,0
+"C","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",13,0
+"C","June","Bivalvia",NA,NA,NA,NA,"Bivalvia",832,0
+"C","June","Insecta","Odonata","Calopterygidae","Calopteryx","Calopteryx virgo","Calopteryx virgo",11,1
+"C","April","Insecta","Odonata","Calopterygidae","Calopteryx","Calopteryx virgo","Calopteryx virgo",2,1
+"C","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",63,0
+"C","June","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",2,1
+"C","April","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",3,1
+"C","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",747,0
+"C","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",577,0
+"C","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",39,0
+"C","June","Insecta","Diptera","Dixidae",NA,NA,"Dixidae",3,1
+"C","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"C","April","Insecta","Coleoptera","Scritidae","Elodes",NA,"Elodes",2,0
+"C","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",5,0
+"C","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",2,0
+"C","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",47,0
+"C","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",35,0
+"C","June","Gastropoda",NA,NA,NA,NA,"Gastropoda",2,0
+"C","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"C","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",11,0
+"C","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",5,0
+"C","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus radiatus","Halesus radiatus",1,1
+"C","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",8,1
+"C","April","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",1,1
+"C","June","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",1,0
+"C","June","Insecta","Coleoptera","Hydrophilidae",NA,NA,"Hydrophilidae",5,0
+"C","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",14,0
+"C","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",2,0
+"C","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",3,1
+"C","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",5,1
+"C","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",13,1
+"C","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",29,0
+"C","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",4,0
+"C","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",3,0
+"C","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",1,0
+"C","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",854,0
+"C","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",125,0
+"C","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",222,0
+"C","June","Insecta","Odonata","Platycnemididae","Platycnemis",NA,"Platycnemis",1,0
+"C","April","Insecta","Trichoptera","Limnephilidae","Potamophylax",NA,"Potamophylax",10,1
+"C","June","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",4,0
+"C","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"C","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",28,0
+"C","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"C","June","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",3,0
+"D","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",6,1
+"D","April","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",1,0
+"D","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",90,0
+"D","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",68,0
+"D","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",22,1
+"D","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",3,1
+"D","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",11,1
+"D","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",17,0
+"D","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",19,0
+"D","June","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",1,1
+"D","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",485,0
+"D","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",285,0
+"D","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",3,1
+"D","April","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",2,0
+"D","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",4,0
+"D","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",7,0
+"D","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",10,0
+"D","April","Insecta","Ephemeroptera","Ephemeridae","Ephemera",NA,"Ephemera",2,0
+"D","April","Insecta","Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica","Ephemera danica",1,0
+"D","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"D","June","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",176,0
+"D","April","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",24,0
+"D","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",26,0
+"D","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",7,0
+"D","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"D","April","Insecta","Odonata","Gomphidae",NA,NA,"Gomphidae",2,0
+"D","April","Insecta","Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus","Gomphus vulgatissimus",2,0
+"D","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",2,1
+"D","June","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",2,0
+"D","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",306,0
+"D","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",19,0
+"D","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",23,0
+"D","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",27,0
+"D","June","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",2,1
+"D","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",38,1
+"D","June","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",76,1
+"D","June","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",1,1
+"D","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",33,1
+"D","June","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",1,0
+"D","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",8,0
+"D","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",2,0
+"D","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",1,0
+"D","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",35,0
+"D","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",344,0
+"D","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",5,0
+"D","April","Insecta","Coleoptera","Gyrinidae","Orectochilus",NA,"Orectochilus",1,0
+"D","April","Insecta","Odonata","Libellulidae","Orthetrum","Orthetrum coerulescens","Orthetrum coerulescens",1,0
+"D","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"D","April","Insecta","Trichoptera","Rhyacophilidae","Rhyacophila",NA,"Rhyacophila",10,1
+"D","June","Insecta","Coleoptera","Elmidae","Riolus",NA,"Riolus",3,0
+"D","April","Insecta","Coleoptera","Elmidae","Riolus",NA,"Riolus",2,0
+"D","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",17,0
+"D","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",468,0
+"D","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",83,0
+"D","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",104,0
+"D","April","Insecta","Trichoptera","Leptoceridae","Setodes",NA,"Setodes",1,0
+"D","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",48,0
+"D","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"E","June","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",3,1
+"E","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",3,1
+"E","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",2,0
+"E","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",9,0
+"E","June","Bivalvia",NA,NA,NA,NA,"Bivalvia",1,0
+"E","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",2,0
+"E","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",2,0
+"E","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",327,0
+"E","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",221,0
+"E","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",6,0
+"E","June","Insecta","Odonata","Corduliidae",NA,NA,"Corduliidae",1,0
+"E","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",1,1
+"E","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",3,0
+"E","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",3,0
+"E","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"E","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",13,0
+"E","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",21,0
+"E","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",2,0
+"E","April","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",1,1
+"E","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",2,1
+"E","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",3,1
+"E","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"E","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",1,0
+"E","April","Insecta","Hemiptera","Corixidae","Micronecta",NA,"Micronecta",1,0
+"E","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",20,0
+"E","April","Insecta","Hemiptera","Nepidae","Nepa",NA,"Nepa",1,0
+"E","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",573,0
+"E","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",1459,0
+"E","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"E","June","Insecta","Trichoptera","Limnephilidae","Potamophylax",NA,"Potamophylax",1,1
+"E","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",74,0
+"E","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"E","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",158,0
+"E","June","Insecta","Megaloptera","Sialidae","Sialis",NA,"Sialis",3,1
+"E","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"E","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",4,0
+"F","June","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",245,0
+"F","April","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",167,0
+"F","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",304,0
+"F","June","Bivalvia",NA,NA,NA,NA,"Bivalvia",1,0
+"F","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",3,0
+"F","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",60,0
+"F","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",200,0
+"F","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",49,0
+"F","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",48,0
+"F","June","Insecta","Odonata","Corduliidae",NA,NA,"Corduliidae",4,0
+"F","April","Insecta","Diptera","Dixidae",NA,NA,"Dixidae",1,1
+"F","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",4,0
+"F","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",56,0
+"F","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",29,0
+"F","June","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"F","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"F","June","Insecta","Coleoptera","Gyrinidae","Gyrinus",NA,"Gyrinus",1,0
+"F","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",126,0
+"F","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",202,0
+"F","June","Clitellata","Hirudinida","Hirudinidae","Hirudo",NA,"Hirudo",1,0
+"F","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",1,0
+"F","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",4,1
+"F","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus auricula","Limnephilus auricula",1,0
+"F","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",4,1
+"F","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",1,1
+"F","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus stigma","Limnephilus stigma",1,1
+"F","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",6,0
+"F","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",114,0
+"F","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",4,0
+"F","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",968,0
+"F","April","Gastropoda",NA,"Physidae",NA,NA,"Physidae",5,0
+"F","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",20,0
+"F","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",1,0
+"F","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",1,0
+"F","April","Insecta","Ephemeroptera","Siphlonuridae","Siphlonurus",NA,"Siphlonurus",37,1
+"F","April","Insecta","Trichoptera","Limnephilidae","Stenophylax","Stenophylax permistus","Stenophylax permistus",1,1
+"F","April","Insecta","Diptera","Stratiomyidae",NA,NA,"Stratiomyidae",2,0
+"F","June","Insecta","Odonata","Lestidae","Sympecma",NA,"Sympecma",4,0
+"F","April","Insecta","Odonata","Lestidae","Sympecma",NA,"Sympecma",1,0
+"F","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"G","June","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",6,1
+"G","June","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",8,0
+"G","April","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",792,0
+"G","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",4,0
+"G","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",16,0
+"G","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",31,0
+"G","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",1,0
+"G","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",3,0
+"G","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",3,0
+"G","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",3132,0
+"G","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",771,0
+"G","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",2,0
+"G","April","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",1,0
+"G","April","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",5,1
+"G","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",4,0
+"G","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",7,0
+"G","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche augustipennis","Hydropsyche augustipennis",6,0
+"G","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche augustipennis","Hydropsyche augustipennis",17,0
+"G","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche pellucidula","Hydropsyche pellucidula",1,0
+"G","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",8,0
+"G","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",3,1
+"G","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",1,1
+"G","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",8,1
+"G","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",6,0
+"G","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",4,0
+"G","April","Insecta","Trichoptera","Limnephilidae","Micropterna","Micropterna testacea","Micropterna testacea",1,1
+"G","April","Insecta","Trichoptera","Limnephilidae","Micropterna","Micropterna testacea","Micropterna testacea",1,1
+"G","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",14,0
+"G","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",30,0
+"G","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",19,0
+"G","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"G","June","Insecta","Trichoptera","Limnephilidae","Potamophylax",NA,"Potamophylax",1,1
+"G","April","Insecta","Trichoptera","Limnephilidae","Potamophylax",NA,"Potamophylax",12,1
+"G","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"G","June","Insecta","Megaloptera","Sialidae","Sialis",NA,"Sialis",1,1
+"G","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",6,0
+"G","April","Insecta","Trichoptera","Limnephilidae","Stenophylax","Stenophylax permistus","Stenophylax permistus",3,1
+"G","April","Insecta","Diptera","Stratiomyidae",NA,NA,"Stratiomyidae",1,0
+"H","June","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",1,0
+"H","April","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",1,0
+"H","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",30,0
+"H","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",73,0
+"H","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",3,1
+"H","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",4,1
+"H","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",78,1
+"H","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",14,0
+"H","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",107,0
+"H","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",682,0
+"H","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"H","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",2,0
+"H","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",1,0
+"H","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",3,0
+"H","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"H","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",5,0
+"H","June","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",2,0
+"H","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",36,0
+"H","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",45,0
+"H","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",48,0
+"H","April","Insecta","Trichoptera","Hydrophilidae","Hydroptila",NA,"Hydroptila",6,1
+"H","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",1,1
+"H","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",2,0
+"H","April","Insecta","Hemiptera","Corixidae","Micronecta",NA,"Micronecta",1,0
+"H","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",587,0
+"H","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",2482,0
+"H","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",1,0
+"H","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"H","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"H","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"H","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",13,0
+"H","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",10,0
+"H","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",390,0
+"H","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",4,0
+"I","April","Insecta","Plecoptera","Nemouridae","Amphinemura",NA,"Amphinemura",6,0
+"I","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",2,1
+"I","June","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",7,0
+"I","April","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",16,0
+"I","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",111,0
+"I","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",7,0
+"I","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",6,1
+"I","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",3,1
+"I","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",1,1
+"I","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",1,0
+"I","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",28,0
+"I","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",75,0
+"I","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",254,0
+"I","June","Maxillopoda",NA,NA,NA,NA,"Copepoda",2,0
+"I","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",55,0
+"I","April","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",17,1
+"I","June","Insecta","Diptera","Empididae",NA,NA,"Empididae",1,0
+"I","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",1,0
+"I","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",1,0
+"I","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",1,1
+"I","April","Insecta","Coleoptera","Hydraenidae",NA,NA,"Hydraenidae",1,0
+"I","June","Insecta","Coleoptera","Hydrophilidae",NA,NA,"Hydrophilidae",2,0
+"I","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",2,0
+"I","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",1,0
+"I","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",9,0
+"I","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",3,0
+"I","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",25,0
+"I","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",855,0
+"I","June","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",2,0
+"I","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",3,0
+"I","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",4,0
+"I","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",3,0
+"I","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",477,0
+"I","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"I","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",242,0
+"I","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",77,0
+"I","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"I","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",3,0
+"I","April","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",1,0
+"K","April","Insecta","Plecoptera","Nemouridae","Amphinemura",NA,"Amphinemura",1,0
+"K","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",10,1
+"K","April","Insecta","Trichoptera","Limnephilidae","Annitella",NA,"Annitella",3,1
+"K","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",23,0
+"K","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",10,0
+"K","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",21,1
+"K","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",25,1
+"K","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",82,1
+"K","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",2,0
+"K","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",10,0
+"K","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",341,0
+"K","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",299,0
+"K","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",1,0
+"K","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",11,1
+"K","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus","Ecdyonurus dispar","Ecdyonurus dispar",5,1
+"K","June","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",2,0
+"K","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"K","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",5,0
+"K","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"K","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",39,0
+"K","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",41,0
+"K","April","Insecta","Odonata","Gomphidae",NA,NA,"Gomphidae",2,0
+"K","June","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus digitatus","Halesus digitatus",1,1
+"K","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",7,1
+"K","April","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",4,1
+"K","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",71,0
+"K","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",11,0
+"K","June","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",4,1
+"K","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",3,0
+"K","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",49,0
+"K","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",1967,0
+"K","June","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",3,0
+"K","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",4,0
+"K","June","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",2,0
+"K","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"K","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",94,0
+"K","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",22,0
+"K","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",152,0
+"K","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",220,0
+"K","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",6,0
+"K","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",2,0
+"K","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",3,0
+"K","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"L","April","Insecta","Trichoptera","Glossosomatidae","Agapetus",NA,"Agapetus",3,1
+"L","April","Insecta","Plecoptera","Nemouridae","Amphinemura",NA,"Amphinemura",9,0
+"L","April","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",11,0
+"L","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",30,0
+"L","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",6,0
+"L","June","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",1,1
+"L","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",12,0
+"L","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",350,0
+"L","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",11,0
+"L","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",1,1
+"L","April","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",5,1
+"L","April","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",2,0
+"L","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",5,0
+"L","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",1,0
+"L","June","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",3,0
+"L","April","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",2,0
+"L","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"L","April","Insecta","Trichoptera","Glossosomatidae","Glossosoma",NA,"Glossosoma",3,1
+"L","April","Insecta","Ephemeroptera","Leptophlebiidae","Habroleptoides",NA,"Habroleptoides",5,0
+"L","April","Insecta","Ephemeroptera","Leptophlebiidae","Habroleptoides",NA,"Habroleptoides",5,0
+"L","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",2,0
+"L","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",108,0
+"L","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",3,1
+"L","April","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",11,0
+"L","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche fulvipes","Hydropsyche fulvipes",1,0
+"L","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",2,1
+"L","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",1,0
+"L","April","Insecta","Plecoptera","Perlodidae","Isoperla",NA,"Isoperla",2,1
+"L","June","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",1,1
+"L","April","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",1,1
+"L","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",13,1
+"L","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"L","April","Insecta","Trichoptera","Limnephilidae","Micropterna","Micropterna testacea","Micropterna testacea",1,1
+"L","April","Insecta","Trichoptera","Limnephilidae","Micropterna","Micropterna testacea","Micropterna testacea",1,1
+"L","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",15,0
+"L","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",1,0
+"L","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",373,0
+"L","April","Insecta","Trichoptera","Limnephilidae","Potamophylax",NA,"Potamophylax",4,1
+"L","April","Insecta","Plecoptera","Nemouridae","Protonemura",NA,"Protonemura",80,0
+"L","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",3,0
+"L","April","Insecta","Ephemeroptera","Heptageniidae","Rhithrogena",NA,"Rhithrogena",1,1
+"L","April","Insecta","Ephemeroptera","Heptageniidae","Rhithrogena","Rhithrogena semicolorata","Rhithrogena semicolorata",1,1
+"L","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",1,0
+"L","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",263,0
+"L","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",113,0
+"L","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",12,0
+"L","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",43,0
+"L","April","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",1,0
+"M","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",20,0
+"M","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",4,0
+"M","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",5,1
+"M","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",20,0
+"M","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",10,0
+"M","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",1674,0
+"M","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",2,0
+"M","April","Insecta","Ephemeroptera","Heptageniidae","Electrogena",NA,"Electrogena",1,1
+"M","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",507,0
+"M","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",84,0
+"M","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",86,0
+"M","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",2,0
+"M","June","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",1,1
+"M","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",1,1
+"M","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",1,0
+"M","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",29,0
+"M","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",21,0
+"M","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",7049,0
+"M","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"M","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",5,0
+"M","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",12,0
+"M","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",25,0
+"M","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",72,0
+"M","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",19,0
+"M","April","Insecta","Ephemeroptera","Siphlonuridae","Siphlonurus",NA,"Siphlonurus",12,1
+"M","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"N","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",313,0
+"N","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",44,0
+"N","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",1,0
+"N","June","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",1,1
+"N","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",37,0
+"N","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",502,0
+"N","June","Insecta","Diptera","Dixidae",NA,NA,"Dixidae",13,1
+"N","April","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",3,0
+"N","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",98,0
+"N","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",64,0
+"N","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",22,0
+"N","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",178,0
+"N","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",42,0
+"N","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",20,0
+"N","April","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",1,1
+"N","June","Insecta","Coleoptera","Hydraenidae",NA,NA,"Hydraenidae",2,0
+"N","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",4,0
+"N","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",3,0
+"N","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche saxonica","Hydropsyche saxonica",1,0
+"N","April","Insecta","Trichoptera","Hydrophilidae","Hydroptila",NA,"Hydroptila",2,1
+"N","June","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",4,0
+"N","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",17,0
+"N","April","Insecta","Hemiptera","Corixidae","Micronecta",NA,"Micronecta",1,0
+"N","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",34,0
+"N","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",2993,0
+"N","June","Insecta","Odonata","Platycnemididae","Platycnemis",NA,"Platycnemis",1,0
+"N","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",2,0
+"N","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",46,0
+"N","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",12,0
+"O","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",48,0
+"O","June","Bivalvia",NA,NA,NA,NA,"Bivalvia",2,0
+"O","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",11,0
+"O","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",3,1
+"O","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",7,1
+"O","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",8,0
+"O","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",21,0
+"O","June","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",1,1
+"O","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",4,0
+"O","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",10,0
+"O","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",4,0
+"O","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",2,0
+"O","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",2,0
+"O","June","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",4,0
+"O","April","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",1,0
+"O","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",8,0
+"O","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",15,0
+"O","June","Insecta","Diptera","Empididae",NA,NA,"Empididae",1,0
+"O","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",4,0
+"O","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",5,0
+"O","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",4,0
+"O","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",4335,0
+"O","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",607,0
+"O","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",23,0
+"O","April","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",1,0
+"O","April","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus tesselatus","Halesus tesselatus",1,1
+"O","April","Clitellata","Hirudinida","Hirudinidae","Hirudo",NA,"Hirudo",1,0
+"O","April","Insecta","Trichoptera","Polycentropodidae","Holocentropus",NA,"Holocentropus",1,1
+"O","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",2,0
+"O","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",6,1
+"O","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"O","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",2,0
+"O","June","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",1,0
+"O","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",16,0
+"O","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",78,0
+"O","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",3,0
+"O","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",1,0
+"O","June","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"O","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",2,0
+"O","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",4,0
+"O","June","Insecta","Trichoptera","Rhyacophilidae","Rhyacophila",NA,"Rhyacophila",1,1
+"O","June","Insecta","Coleoptera","Elmidae","Riolus",NA,"Riolus",1,0
+"O","April","Insecta","Coleoptera","Elmidae","Riolus",NA,"Riolus",1,0
+"O","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"O","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",27,0
+"O","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",2,0
+"O","June","Insecta","Trichoptera","Limnephilidae","Stenophylax","Stenophylax nycterobius","Stenophylax nycterobius",1,1
+"O","April","Insecta","Trichoptera","Limnephilidae","Stenophylax","Stenophylax nycterobius","Stenophylax nycterobius",6,1
+"O","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"O","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",3,0
+"P","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",1,1
+"P","April","Insecta","Hemiptera","Aphelochiridae","Aphelocheirus","Aphelocheirus aestivalis","Aphelocheirus aestivalis",6,0
+"P","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",7,0
+"P","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",1,0
+"P","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",6,1
+"P","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",2,1
+"P","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",13,1
+"P","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",96,1
+"P","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",41,0
+"P","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",81,0
+"P","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",467,0
+"P","June","Maxillopoda",NA,NA,NA,NA,"Copepoda",1,0
+"P","April","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",2,0
+"P","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",9,0
+"P","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",16,0
+"P","April","Insecta","Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica","Ephemera danica",3,0
+"P","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"P","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",3,0
+"P","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",23,0
+"P","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",31,0
+"P","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",1,0
+"P","June","Insecta","Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus","Gomphus vulgatissimus",1,0
+"P","April","Insecta","Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus","Gomphus vulgatissimus",1,0
+"P","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",9,0
+"P","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",14,0
+"P","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",1,0
+"P","June","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",1,1
+"P","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",4,1
+"P","April","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",2,0
+"P","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"P","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",5,0
+"P","April","Insecta","Hemiptera","Corixidae","Micronecta",NA,"Micronecta",1,0
+"P","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",1,0
+"P","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",553,0
+"P","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",1456,0
+"P","April","Insecta","Coleoptera","Elmidae","Oulimnius",NA,"Oulimnius",1,0
+"P","June","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"P","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",10,0
+"P","June","Insecta","Odonata","Platycnemididae","Platycnemis",NA,"Platycnemis",2,0
+"P","April","Insecta","Odonata","Platycnemididae","Platycnemis",NA,"Platycnemis",1,0
+"P","June","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"P","April","Insecta","Trichoptera","Psychomyiidae","Psychomyia",NA,"Psychomyia",1,1
+"P","April","Insecta","Trichoptera","Psychomyiidae","Psychomyia","Psychomyia pusilla","Psychomyia pusilla",3,0
+"P","April","Insecta","Coleoptera","Elmidae","Riolus",NA,"Riolus",2,0
+"P","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",1,0
+"P","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",4,0
+"P","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",2,0
+"P","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",8,0
+"P","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",7,0
+"Q","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",1,1
+"Q","April","Insecta","Trichoptera","Limnephilidae","Annitella",NA,"Annitella",5,1
+"Q","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",23,0
+"Q","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",15,0
+"Q","April","Bivalvia",NA,NA,NA,NA,"Bivalvia",66,0
+"Q","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",2,1
+"Q","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",3,1
+"Q","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",4,1
+"Q","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",275,0
+"Q","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",34,0
+"Q","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",738,0
+"Q","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"Q","April","Insecta","Diptera","Dolichopodidae",NA,NA,"Dolichopodidae",1,0
+"Q","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"Q","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",16,0
+"Q","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",56,0
+"Q","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",3,0
+"Q","April","Clitellata","Rhynchobdellida","Glossiphoniidae","Glossiphonia",NA,"Glossiphonia",1,0
+"Q","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",4,0
+"Q","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",294,0
+"Q","April","Insecta","Coleoptera","Haliplidae","Haliplus",NA,"Haliplus",1,0
+"Q","June","Clitellata","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,"Helobdella",1,0
+"Q","April","Clitellata","Rhynchobdellida","Glossiphoniidae","Helobdella",NA,"Helobdella",2,0
+"Q","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",1,0
+"Q","April","Insecta","Trichoptera","Limnephilidae","Ironoquia","Ironoquia dubia","Ironoquia dubia",1,0
+"Q","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",3,1
+"Q","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus auricula","Limnephilus auricula",17,0
+"Q","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",36,1
+"Q","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus rhombicus","Limnephilus rhombicus",1,1
+"Q","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",24,0
+"Q","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"Q","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",14,0
+"Q","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",1,0
+"Q","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",2418,0
+"Q","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",6728,0
+"Q","June","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",2,0
+"Q","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",166,0
+"Q","April","Insecta","Odonata","Platycnemididae","Platycnemis",NA,"Platycnemis",1,0
+"Q","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",18,0
+"Q","April","Gastropoda","Lymnaeidae",NA,"Radix",NA,"Radix",3,0
+"Q","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"Q","June","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",1,0
+"Q","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",8,0
+"R","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",5,0
+"R","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",1,0
+"R","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",453,0
+"R","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",21,0
+"R","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",4,0
+"R","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",3,0
+"R","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",1,0
+"R","June","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"R","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",640,0
+"R","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",5666,0
+"R","June","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"R","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",6,0
+"R","June","Insecta","Diptera","Stratiomyidae",NA,NA,"Stratiomyidae",1,0
+"S","April","Insecta","Trichoptera","Limnephilidae","Anabolia","Anabolia furcata","Anabolia furcata",3,1
+"S","April","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",8,0
+"S","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",161,0
+"S","April","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",7,0
+"S","April","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",18,1
+"S","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",8,1
+"S","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",80,1
+"S","June","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",1,0
+"S","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",53,0
+"S","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",26,0
+"S","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",384,0
+"S","April","Maxillopoda",NA,NA,NA,NA,"Copepoda",2,0
+"S","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",2,1
+"S","April","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",6,1
+"S","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",11,0
+"S","June","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"S","April","Clitellata","Arhynchobdellida","Erpobdellidae","Erpobdella",NA,"Erpobdella",1,0
+"S","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",2,0
+"S","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",4,0
+"S","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",2,0
+"S","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",36,0
+"S","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",2,0
+"S","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",3,0
+"S","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",9,0
+"S","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",7,1
+"S","April","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",1,1
+"S","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"S","April","Gastropoda","Lymnaeidae",NA,NA,NA,"Lymnaeidae",1,0
+"S","April","Insecta","Hemiptera","Corixidae","Micronecta",NA,"Micronecta",22,0
+"S","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",1,0
+"S","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",2,0
+"S","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",47,0
+"S","April","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",1,0
+"S","April","Bivalvia","Veneroida","Sphaeriidae","Pisidium",NA,"Pisidium",1,0
+"S","April","Insecta","Coleoptera","Scritidae","Scirtes",NA,"Scirtes",1,1
+"S","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",35,0
+"S","April","Insecta","Trichoptera","Leptoceridae","Setodes",NA,"Setodes",1,0
+"S","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",11,0
+"S","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",164,0
+"S","April","Insecta","Diptera","Tabanidae",NA,NA,"Tabanidae",8,0
+"S","April","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",1,0
+"T","June","Malacostraca","Isopoda","Asellidae","Asellus","Asellus aquaticus","Asellus aquaticus",5,0
+"T","June","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",50,0
+"T","June","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",5,1
+"T","June","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",16,1
+"T","April","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",174,1
+"T","April","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",28,0
+"T","June","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",86,0
+"T","April","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",398,0
+"T","April","Insecta","Odonata","Corduliidae",NA,NA,"Corduliidae",1,0
+"T","June","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus","Ecdyonurus dispar","Ecdyonurus dispar",2,1
+"T","June","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"T","April","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",4,0
+"T","April","Insecta","Diptera","Empididae",NA,NA,"Empididae",33,0
+"T","June","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",29,0
+"T","April","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",5,0
+"T","April","Gastropoda",NA,NA,NA,NA,"Gastropoda",1,0
+"T","April","Insecta","Odonata","Gomphidae","Gomphus","Gomphus vulgatissimus","Gomphus vulgatissimus",1,0
+"T","June","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",9,0
+"T","April","Insecta","Ephemeroptera","Leptophlebiidae","Habrophlebia",NA,"Habrophlebia",6,0
+"T","April","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",5,1
+"T","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",69,0
+"T","June","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",34,0
+"T","April","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche bulbifera","Hydropsyche bulbifera",1,0
+"T","June","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",5,1
+"T","April","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",5,1
+"T","April","Insecta","Trichoptera","Limnephilidae","Limnephilus","Limnephilus lunatus","Limnephilus lunatus",1,1
+"T","April","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",1,0
+"T","April","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",1,0
+"T","June","Clitellata",NA,NA,NA,NA,"Oligochaeta",41,0
+"T","April","Clitellata",NA,NA,NA,NA,"Oligochaeta",1987,0
+"T","June","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",2,0
+"T","June","Clitellata","Rhynchobdellida","Piscicolidae","Piscicola",NA,"Piscicola",1,0
+"T","April","Insecta","Diptera","Psychodidae",NA,NA,"Psychodidae",1,0
+"T","June","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",1,0
+"T","April","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",3,0
+"T","June","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",12,0
+"T","April","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",10,0
+"T","April","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",2,0
+"X","May","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",104,0
+"X","May","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",3,0
+"X","May","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",147,0
+"X","May","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",11,1
+"X","May","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"X","May","Insecta","Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica","Ephemera danica",1,0
+"X","May","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",6,0
+"X","May","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",47,0
+"X","May","Insecta","Trichoptera","Glossosomatidae","Glossosoma",NA,"Glossosoma",1,1
+"X","May","Insecta","Trichoptera","Limnephilidae","Halesus","Halesus digitatus","Halesus digitatus",3,1
+"X","May","Insecta","Ephemeroptera","Heptageniidae",NA,NA,"Heptageniidae",5,1
+"X","May","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",7,0
+"X","May","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",1,0
+"X","May","Insecta","Plecoptera","Perlodidae","Isoperla",NA,"Isoperla",3,1
+"X","May","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",13,0
+"X","May","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",18,0
+"X","May","Clitellata",NA,NA,NA,NA,"Oligochaeta",14,0
+"X","May","Insecta","Plecoptera","Nemouridae","Protonemura",NA,"Protonemura",1,0
+"X","May","Insecta","Ephemeroptera","Heptageniidae","Rhithrogena",NA,"Rhithrogena",6,1
+"X","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",36,0
+"X","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",110,0
+"X","May","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",8,0
+"Y","May","Insecta","Trichoptera","Glossosomatidae","Agapetus",NA,"Agapetus",5,1
+"Y","May","Insecta","Trichoptera","Limnephilidae","Annitella",NA,"Annitella",4,1
+"Y","May","Insecta","Diptera","Athericidae",NA,NA,"Athericidae",1,1
+"Y","May","Insecta","Trichoptera","Leptoceridae","Athripsodes",NA,"Athripsodes",5,0
+"Y","May","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",24,0
+"Y","May","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",14,0
+"Y","May","Insecta","Trichoptera","Limnephilidae","Chaetopteryx","Chaetopteryx villosa","Chaetopteryx villosa",6,1
+"Y","May","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",70,0
+"Y","May","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",12,1
+"Y","May","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus","Ecdyonurus dispar","Ecdyonurus dispar",1,1
+"Y","May","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",1,0
+"Y","May","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",5,0
+"Y","May","Insecta","Diptera","Empididae",NA,NA,"Empididae",3,0
+"Y","May","Insecta","Ephemeroptera","Ephemeridae","Ephemera","Ephemera danica","Ephemera danica",3,0
+"Y","May","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",3,0
+"Y","May","Malacostraca","Amphipoda","Gammaridae","Gammarus","Gammarus balcanicus","Gammarus balcanicus",78,0
+"Y","May","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",8,0
+"Y","May","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",2,0
+"Y","May","Insecta","Plecoptera","Perlodidae","Isoperla",NA,"Isoperla",1,1
+"Y","May","Insecta","Plecoptera","Leuctridae","Leuctra",NA,"Leuctra",15,1
+"Y","May","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",2,1
+"Y","May","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",56,0
+"Y","May","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",17,0
+"Y","May","Insecta","Plecoptera","Nemouridae","Nemoura",NA,"Nemoura",3,0
+"Y","May","Clitellata",NA,NA,NA,NA,"Oligochaeta",1,0
+"Y","May","Insecta","Plecoptera","Perlidae","Perla",NA,"Perla",1,1
+"Y","May","Insecta","Ephemeroptera","Potamanthidae","Potamanthus",NA,"Potamanthus",7,1
+"Y","May","Insecta","Plecoptera","Nemouridae","Protonemura",NA,"Protonemura",4,0
+"Y","May","Insecta","Ephemeroptera","Rhithrogena",NA,NA,"Rhithrogena",5,1
+"Y","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",2,0
+"Y","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",12,0
+"Y","May","Insecta","Diptera","Simuliidae",NA,NA,"Simuliidae",15,0
+"Y","May","Insecta","Diptera","Tipulidae",NA,NA,"Tipulidae",1,0
+"Z","May","Insecta","Ephemeroptera","Baetidae","Baetis",NA,"Baetis",89,0
+"Z","May","Insecta","Ephemeroptera","Caenidae","Caenis",NA,"Caenis",3,1
+"Z","May","Insecta","Ephemeroptera","Caenidae","Caenis","Caenis luctuosa","Caenis luctuosa",1,1
+"Z","May","Insecta","Diptera","Ceratopogonidae",NA,NA,"Ceratopogonidae",14,0
+"Z","May","Insecta","Diptera","Chironomidae",NA,NA,"Chironomidae",122,0
+"Z","May","Insecta","Ephemeroptera","Heptageniidae","Ecdyonurus",NA,"Ecdyonurus",85,1
+"Z","May","Insecta","Coleoptera","Elmidae",NA,NA,"Elmidae",3,0
+"Z","May","Insecta","Coleoptera","Elmidae","Elmis",NA,"Elmis",1,0
+"Z","May","Insecta","Diptera","Empididae",NA,NA,"Empididae",5,0
+"Z","May","Insecta","Ephemeroptera","Heptageniidae","Epeorus",NA,"Epeorus",13,1
+"Z","May","Insecta","Coleoptera","Elmidae","Esolus",NA,"Esolus",57,0
+"Z","May","Insecta","Ephemeroptera","Leptophlebiidae","Habroleptoides",NA,"Habroleptoides",47,0
+"Z","May","Insecta","Ephemeroptera","Leptophlebiidae","Habroleptoides",NA,"Habroleptoides",47,0
+"Z","May","Insecta","Coleoptera","Hydraenidae","Hydraena",NA,"Hydraena",22,0
+"Z","May","Insecta","Trichoptera","Hydropsychidae","Hydropsyche",NA,"Hydropsyche",4,0
+"Z","May","Insecta","Trichoptera","Hydropsychidae","Hydropsyche","Hydropsyche instabilis","Hydropsyche instabilis",6,0
+"Z","May","Insecta","Trichoptera","Hydroptilidae","Hydroptila",NA,"Hydroptila",2,1
+"Z","May","Insecta","Trichoptera","Limnephilidae",NA,NA,"Limnephilidae",6,1
+"Z","May","Insecta","Coleoptera","Elmidae","Limnius",NA,"Limnius",7,0
+"Z","May","Insecta","Diptera","Limoniidae",NA,NA,"Limoniidae",8,0
+"Z","May","Insecta","Trichoptera","Leptoceridae","Oecetis",NA,"Oecetis",2,0
+"Z","May","Insecta","Trichoptera","Sericostomatidae","Oecismus","Oecismus mondula","Oecismus mondula",2,0
+"Z","May","Clitellata",NA,NA,NA,NA,"Oligochaeta",5,0
+"Z","May","Insecta","Odonata","Gomphidae","Onychogomphus","Onychogomphus forcipatus","Onychogomphus forcipatus",1,0
+"Z","May","Insecta","Coleoptera","Gyrinidae","Orectochilus",NA,"Orectochilus",2,0
+"Z","May","Insecta","Ephemeroptera","Heptageniidae","Rhithrogena",NA,"Rhithrogena",106,1
+"Z","May","Insecta","Trichoptera","Rhyacophilidae","Rhyacophila",NA,"Rhyacophila",1,1
+"Z","May","Insecta","Trichoptera","Sericostomatidae","Sericostoma","Sericostoma personatum","Sericostoma personatum",10,0
+"Z","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella",NA,"Serratella",491,0
+"Z","May","Insecta","Ephemeroptera","Ephemerellidae","Serratella","Serratella ignita","Serratella ignita",109,0
