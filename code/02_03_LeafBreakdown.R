@@ -382,6 +382,6 @@ family_df <- data.frame(Variable = "family",
                         k = "Gaussian")
 model_table <- rbind(model_table, family_df)
 ## change order of columns
-model_table <- model_table[c(17,16,14,15,1,9,8,11,10,7,4,6,2,5,3),]
+model_table <- model_table[c(17,16,14,15,1,9,8,11,10,7,4,6,2,5,3,12,13),]
 write.csv(model_table, "./model_outputs/model_shred_tab.csv", row.names = FALSE)
 
