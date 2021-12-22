@@ -78,32 +78,6 @@ swd_dat <- dat_jn[swd_cols]
 pairs(swd_dat, lower.panel = panel.smooth, upper.panel = panel.cor)
 dev.off()
 
-## ///// use stepwise forward model building with BIC
-reg0 <- lm(swd ~ 1,
-           data = swd_dat)
-reg1 <- lm(swd ~ .,
-           data = swd_dat)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(swd_dat)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- swd_dat %>% select(-swd) %>% scale() %>% as.matrix()
-y1 <- swd_dat %>% select(swd) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(4159)
-cv_tnr <- cv.glmnet(x1, y1, alpha = 1, nfolds = 5, family = "gaussian")  ## 19 obs, 10 folds not possible, 3 folds too small
-plot(cv_tnr)
-coef(cv_tnr, s = "lambda.1se") ## all coefficients shrunk to zero
-coef(cv_tnr, s = "lambda.min") ## fine_sed selected
-
-## ///// Apply stability selection with stabs package
-set.seed(3254)
-(stabs.elnet <- stabsel(x = x, y = y, fitfun = glmnet.lasso,
-                        cutoff = 0.60, PFER = 1))
-## no variables selected
-
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
 x <- swd_dat %>% select(-swd) %>% as.matrix()
@@ -131,6 +105,9 @@ plot(swd_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(swd_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- swd_dat %>% select(-swd) %>% scale() %>% as.matrix()
+y1 <- swd_dat %>% select(swd) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 swd_mod <- glmnet(x1, y1, alpha = res_swd_elnet$alpha, lambda = res_swd_elnet$lambda, family = gaussian())
 coef.glmnet(swd_mod)
@@ -152,31 +129,6 @@ epttp_dat <- dat_jn[epttp_cols]
 pairs(epttp_dat, lower.panel = panel.smooth, upper.panel = panel.cor)
 dev.off()
 
-## ///// use stepwise forward model building with BIC
-reg0 <- lm(epttax_percent ~ 1,
-           data = epttp_dat)
-reg1 <- lm(epttax_percent ~ .,
-           data = epttp_dat)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(epttp_dat)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- epttp_dat %>% select(-epttax_percent) %>% scale() %>% as.matrix()
-y1 <- epttp_dat %>% select(epttax_percent) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(4159)
-cv_tnr <- cv.glmnet(x1, y1, alpha = 1, nfolds = 5, family = "gaussian")  ## 19 obs, 10 folds not possible, 3 folds too small
-plot(cv_tnr)
-coef(cv_tnr, s = "lambda.1se") ## all coefficients shrunk to zero
-coef(cv_tnr, s = "lambda.min") ## water_temp, fine_sed, agriculture, refugium
-
-## ///// Apply stability selection with stabs package
-set.seed(3254)
-(stabs.elnet <- stabsel(x = x1, y = y1, fitfun = glmnet.lasso,
-                        cutoff = 0.60, PFER = 1))
-## no variables selected 
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
@@ -207,6 +159,9 @@ plot(epttp_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(epttp_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- epttp_dat %>% select(-epttax_percent) %>% scale() %>% as.matrix()
+y1 <- epttp_dat %>% select(epttax_percent) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 epttp_mod <- glmnet(x1, y1, alpha = res_epttp_elnet$alpha, lambda = res_epttp_elnet$lambda, family = gaussian())
 coef.glmnet(epttp_mod)
@@ -227,32 +182,6 @@ eptp_dat <- dat_jn[eptp_cols]
 ## check pairs plot
 pairs(eptp_dat, lower.panel = panel.smooth, upper.panel = panel.cor)
 dev.off()
-
-## ///// use stepwise forward model building with BIC
-reg0 <- lm(ept_percent ~ 1,
-           data = eptp_dat)
-reg1 <- lm(ept_percent ~ .,
-           data = eptp_dat)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(eptp_dat)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- eptp_dat %>% select(-ept_percent) %>% scale() %>% as.matrix()
-y1 <- eptp_dat %>% select(ept_percent) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(4159)
-cv_tnr <- cv.glmnet(x1, y1, alpha = 1, nfolds = 5, family = "gaussian")  ## 19 obs, 10 folds not possible, 3 folds too small
-plot(cv_tnr)
-coef(cv_tnr, s = "lambda.1se") ## all coefficients shrunk to zero
-coef(cv_tnr, s = "lambda.min") ## water_temp, fine_sed, agriculture, refugium
-
-## ///// Apply stability selection with stabs package
-set.seed(3254)
-(stabs.elnet <- stabsel(x = x, y = y, fitfun = glmnet.lasso,
-                        cutoff = 0.60, PFER = 1))
-## no variables selected
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
@@ -283,6 +212,9 @@ plot(eptp_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(eptp_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- eptp_dat %>% select(-ept_percent) %>% scale() %>% as.matrix()
+y1 <- eptp_dat %>% select(ept_percent) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 eptp_mod <- glmnet(x1, y1, alpha = res_eptp_elnet$alpha, lambda = res_eptp_elnet$lambda, family = gaussian())
 coef.glmnet(eptp_mod)
@@ -303,33 +235,6 @@ spear_dat <- dat_jn[spear_cols]
 ## check pairs plot
 pairs(spear_dat, lower.panel = panel.smooth, upper.panel = panel.cor)
 dev.off()
-
-## ///// use stepwise forward model building with BIC
-reg0 <- lm(spear_pest ~ 1,
-           data = spear_dat)
-reg1 <- lm(spear_pest ~ .,
-           data = spear_dat)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(spear_dat)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- spear_dat %>% select(-spear_pest) %>% scale() %>% as.matrix()
-y1 <- spear_dat %>% select(spear_pest) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(4159)
-cv_tnr <- cv.glmnet(x1, y1, alpha = 1, nfolds = 5, family = "gaussian")  ## 19 obs, 10 folds not possible, 3 folds too small
-plot(cv_tnr)
-coef(cv_tnr, s = "lambda.1se") ## all coefficients shrunk to zero
-coef(cv_tnr, s = "lambda.min") ## refugium, flow, max_sumtu_iv
-
-
-## ///// Apply stability selection with stabs package
-set.seed(3254)
-(stabs.elnet <- stabsel(x = x, y = y, fitfun = glmnet.lasso,
-                        cutoff = 0.60, PFER = 1))
-## no variables selected
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
@@ -359,6 +264,9 @@ plot(spear_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(spear_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- spear_dat %>% select(-spear_pest) %>% scale() %>% as.matrix()
+y1 <- spear_dat %>% select(spear_pest) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 spear_mod <- glmnet(x1, y1, alpha = res_spear_elnet$alpha, lambda = res_spear_elnet$lambda, family = gaussian())
 coef.glmnet(spear_mod)
@@ -389,7 +297,6 @@ model_coefficients$Variable <- row.names(model_coefficients)
 model_coefficients <- model_coefficients[,c(5,1:4)]
 names(model_coefficients) <- c("Variable", "SWD", "Percent_EPT_Taxa", "Percent_EPT", "SPEAR")
 model_coefficients <- model_coefficients %>% mutate(across(where(is.numeric), round, 2))
-# model_coefficients[] <- lapply(model_coefficients, as.character)
 #write.csv(model_coefficients, "./model_outputs/model_coef.csv", row.names = FALSE)
 
 ## combine both tables
@@ -402,4 +309,6 @@ family_df <- data.frame(Variable = "family",
                         SPEAR = "Gaussian",
                         stringsAsFactors = FALSE)
 model_table <- rbind(model_table, family_df)
+## reorder columns
+model_table <- model_table[c(15,14,12,13,1,9,8,11,10,7,4,6,2,5,3),]
 write.csv(model_table, "./model_outputs/model_tab.csv", row.names = FALSE)
