@@ -144,7 +144,7 @@ library(caret)
 ## subset data
 bw_data <- shred_dat[,c(2,6:15)]
 ## remove 0-entry of bodyweight, is positive continuous variable
-bw_data <- bw_data[-11,]
+bw_data <- bw_data[-c(2,11),]
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
