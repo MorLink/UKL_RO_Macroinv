@@ -122,7 +122,7 @@ pairs(shred_dat[,-1], lower.panel = panel.smooth, upper.panel = panel.cor)
 shred_dat$log_gam <- log10(shred_dat$gam_shr + 1)
 shred_dat$log_shr <- log10(shred_dat$all_shr + 1)
 shred_dat$log_ng <- log10(shred_dat$nongam_shr + 1)
-pairs(shred_dat[,c(17:19,6:16)], lower.panel = panel.smooth, upper.panel = panel.cor)
+pairs(shred_dat[,c(16:18,6:15)], lower.panel = panel.smooth, upper.panel = panel.cor)
 
 ## mass loss against environmental drivers and shredders
 pairs(massl_dat[,-1], lower.panel = panel.smooth, upper.panel = panel.cor)
@@ -144,35 +144,7 @@ library(caret)
 ## subset data
 bw_data <- shred_dat[,c(2,6:15)]
 ## remove 0-entry of bodyweight, is positive continuous variable
-#bw_data <- bw_data[-11,]
-
-## ///// use stepwise forward model building with BIC
-reg0 <- lm(gam_bodyweight ~ 1,
-            data = bw_data)
-reg1 <- lm(gam_bodyweight ~ .,
-            data = bw_data)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(bw_data)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- bw_data %>% select(-gam_bodyweight) %>% scale() %>% as.matrix()
-y1 <- bw_data %>% select(gam_bodyweight) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(3862)
-lasso_mod <- cv.glmnet(x1, y1, nfolds = 5, alpha = 1, family = "gaussian") ## 19 obs, 10 folds not possible, 3 folds too small
-plot(lasso_mod)
-coef(lasso_mod, s = "lambda.1se")
-coef(lasso_mod, s = "lambda.min")
-## == > no variables selected
-
-# ## ///// Apply stability selection with stabs package
-# set.seed(3862)
-# (stabs.elnet <- stabsel(x = x, y = y, fitfun = glmnet.lasso,
-#                         cutoff = 0.60, PFER = 1))
-# ## no variables selected
-
+bw_data <- bw_data[-11,]
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
@@ -203,6 +175,9 @@ plot(bowe_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(bowe_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- bw_data %>% select(-gam_bodyweight) %>% scale() %>% as.matrix()
+y1 <- bw_data %>% select(gam_bodyweight) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 bowe_mod <- glmnet(x1, y1, alpha = res_bowe_elnet$alpha, lambda = res_bowe_elnet$lambda, family = gaussian())
 coef.glmnet(bowe_mod)
@@ -225,27 +200,6 @@ plot(shred_dat$all_shr ~ shred_dat$gam_shr)
 
 ## subset data
 ab_data <- shred_dat[,c(16,6:15)]
-
-## ///// use stepwise forward model building with BIC
-reg0 <- glm(log_gam ~ 1,
-           data = ab_data, family = "gaussian")
-reg1 <- glm(log_gam ~ .,
-           data = ab_data, family = "gaussian")
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(ab_data)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- ab_data %>% select(-log_gam) %>% scale() %>% as.matrix()
-y1 <- ab_data %>% select(log_gam) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(3865)
-lasso_mod <- cv.glmnet(x1, y1, nfolds = 5, alpha = 1,  family = gaussian()) ## 19 obs, 10 folds not possible, 3 folds too small
-## ==> CONVERGENCE WARNING
-plot(lasso_mod)
-coef(lasso_mod, s = "lambda.1se")
-coef(lasso_mod, s = "lambda.min") ## ph, po4, flow, fine_sed, agriculture, refugium
 
 ## /////////// continue with elastic net regression and caret package
 # standardize exp. variables
@@ -275,6 +229,9 @@ plot(gash_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(gash_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- ab_data %>% select(-log_gam) %>% scale() %>% as.matrix()
+y1 <- ab_data %>% select(log_gam) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 gash_mod <- glmnet(x1, y1, alpha = res_gash_elnet$alpha, lambda = res_gash_elnet$lambda, family = gaussian())
 coef.glmnet(gash_mod)
@@ -292,28 +249,6 @@ gash_alpha <- res_gash_elnet$alpha
 
 ## subset data
 ng_data <- shred_dat[,c(18,6:15)]
-
-## ///// use stepwise forward model building with BIC
-reg0 <- glm(log_ng ~ 1,
-           data = ng_data, family = "gaussian")
-reg1 <- glm(log_ng ~ .,
-           data = ng_data, family = "gaussian")
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = log(nrow(ng_data)))
-## -->> no independent variable selected
-
-## standardize variables
-x1 <- ng_data %>% select(-log_ng) %>% scale() %>% as.matrix()
-y1 <- ng_data %>% select(log_ng) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(721)
-lasso_mod <- cv.glmnet(x1, y1, nfolds = 5, alpha = 1,  family = gaussian()) ## 19 obs, 10 folds not possible, 3 folds too small
-
-plot(lasso_mod)
-coef(lasso_mod, s = "lambda.1se")
-coef(lasso_mod, s = "lambda.min") ## ph, po4, flow, fine_sed, agriculture, refugium
-## no coefficients selected
 
 ## /////////// continue with elastic net regression and caret package
 # standardize exp. variables
@@ -343,6 +278,9 @@ plot(shr_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(shr_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- ng_data %>% select(-log_ng) %>% scale() %>% as.matrix()
+y1 <- ng_data %>% select(log_ng) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 shr_mod <- glmnet(x1, y1, alpha = res_shr_elnet$alpha, lambda = res_shr_elnet$lambda, family = gaussian())
 coef.glmnet(shr_mod)
@@ -359,30 +297,6 @@ shr_alpha <- shr_mod$alpha
 ## ------ 6.1 k as response variable  --------------
 ##///////////////////////////////////////////////////
 k_data <- massl_dat[,c(2:12,14,16)]
-
-## ///// use stepwise forward model building with BIC
-reg0 <- glm(k ~ 1,
-           data = k_data)
-reg1 <- glm(k ~ .,
-           data = k_data)
-step(reg0, scope=formula(reg0, reg1),
-     direction="forward", k = 2)
-## -->> no independent variable selected
-
-## https://glmnet.stanford.edu/articles/glmnet.html
-## alpha = 1 for lasso regression, shrink all regression coefficients to 0,
-## except for the important ones
-
-x1 <- k_data %>% select(-k) %>% scale() %>% as.matrix()
-y1 <- k_data %>% select(k) %>% as.matrix()
-
-## ///// use cv.glmnet for feature selection
-set.seed(3421)
-lasso_mod <- cv.glmnet(x1, y1, nfolds = 5, alpha = 1, family = gaussian()) ## 18 obs, 10 folds not possible, 3 folds too small
-plot(lasso_mod)
-coef(lasso_mod, s = "lambda.1se") ## po4, water_temp, flow, max_sumtu_iv, pastures selected
-coef(lasso_mod, s = "lambda.min") ## po4, water_temp, flow, max_sumtu_iv, pastures, sqrt_cl, refugium, log_gamshr selected
-
 
 ## /////////// continue with elastic net regression and caret package
 # standardise exp. variables
@@ -411,6 +325,9 @@ plot(k_elnet_mod$finalModel, xvar = "lambda", label = TRUE)
 plot(k_elnet_mod$finalModel, xvar = "dev", label = TRUE)
 
 ## //////// refit the model, get the deviance ratio (r2)
+## standardize variables
+x1 <- k_data %>% select(-k) %>% scale() %>% as.matrix()
+y1 <- k_data %>% select(k) %>% as.matrix()
 ## according to https://stackoverflow.com/questions/50610895/how-to-calculate-r-squared-value-for-lasso-regression-using-glmnet-in-r
 k_mod <- glmnet(x1, y1, alpha = res_k_elnet$alpha, lambda = res_k_elnet$lambda, family = gaussian())
 coef.glmnet(k_mod)
@@ -424,6 +341,7 @@ k_alpha <- res_k_elnet$alpha
 
 ###### Section 7 Combine results of elastic net models ######
 
+## ===>> Combine results of elastic net models
 model_parameters <- data.frame(Variable = as.character(c("alpha", "lambda", "r2")),
                                bowe = as.numeric(c(bowe_alpha, bowe_lam, bowe_r2)),
                                gash = as.numeric(c(gash_alpha, gash_lam, gash_r2)),
@@ -436,11 +354,11 @@ model_parameters <- model_parameters %>% mutate(across(where(is.numeric), round,
 
 ## ===>> Combine coefficients of elastic net models
 df1 <- data.frame(bowe = as.numeric(c(NA,NA)),
-                 row.names = c("log_gamshr", "log_nongam"), 
-                 stringsAsFactors = FALSE)
+                  row.names = c("log_gamshr", "log_nongam"), 
+                  stringsAsFactors = FALSE)
 df2 <- data.frame(log_gash = as.numeric(c(NA, NA)),
-                 row.names = c("log_gamshr", "log_nongam"), 
-                 stringsAsFactors = FALSE)
+                  row.names = c("log_gamshr", "log_nongam"), 
+                  stringsAsFactors = FALSE)
 df3 <- data.frame(shr = as.numeric(c(NA, NA)),
                   row.names = c("log_gamshr", "log_nongam"),
                   stringsAsFactors = FALSE)
@@ -452,6 +370,7 @@ model_coefficients$Variable <- row.names(model_coefficients)
 model_coefficients <- model_coefficients[,c(5,1:4)]
 names(model_coefficients) <- c("Variable", "bowe", "log_gash", "log_nongam", "k")
 model_coefficients <- model_coefficients %>% mutate(across(where(is.numeric), round, 2))
+#write.csv(model_coefficients, "./model_outputs/model_coef.csv", row.names = FALSE)
 
 ## combine both tables
 model_table <- rbind(model_coefficients, model_parameters)
@@ -462,7 +381,7 @@ family_df <- data.frame(Variable = "family",
                         log_nongam = "Gaussian",
                         k = "Gaussian")
 model_table <- rbind(model_table, family_df)
-## subset to relevant data
-model_table <- model_table[c(1:11,14:17), c(1:3)]
+## change order of columns
+model_table <- model_table[c(17,16,14,15,1,9,8,11,10,7,4,6,2,5,3),]
 write.csv(model_table, "./model_outputs/model_shred_tab.csv", row.names = FALSE)
 
