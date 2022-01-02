@@ -29,15 +29,15 @@ author:
     affiliation: iES Landau, Institute for Environmental Sciences, University Koblenz-Landau, Fortstrasse 7, 76829 Landau in der Pfalz, Germany; present address Black Forest National Park, Department for Ecological Monitoring, Research and Species Protection, Kniebisstr. 67, 722450, Freudenstadt, Germany
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
-  bookdown::html_document2:
-    df_print: paged
+  bookdown::word_document2:
+    fig_caption: yes
+    reference_docx: /home/moritz/Nextcloud/PHD/Projects/Romania/UKL_RO_Macroinv/templates/word_template.docx # This you would need to create with the formatting of your choice.
   bookdown::pdf_document2:
     fig_caption: yes
     keep_tex: yes
     latex_engine: pdflatex
-  bookdown::word_document2:
-    fig_caption: yes
-    reference_docx: /home/moritz/Nextcloud/PHD/Projects/Romania/UKL_RO_Macroinv/templates/word_template.docx # This you would need to create with the formatting of your choice.
+  bookdown::html_document2:
+    df_print: paged
 fontfamily: mathpazo
 fontsize: 11pt
 geometry: margin = 1in
