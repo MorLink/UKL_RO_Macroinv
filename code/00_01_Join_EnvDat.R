@@ -199,6 +199,9 @@ data <- data %>%
             round,
             digits = 3)
 
+## change column name refuge_forest to refugium
+names(data)[31] <- "refugium"
+
 ########### Section 3 ###########
 
 ## write to file
