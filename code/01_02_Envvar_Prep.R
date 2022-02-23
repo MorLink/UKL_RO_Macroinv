@@ -50,7 +50,7 @@ env <- env[ , -which(names(env) %in% c("land_use_agri", "nat_nonforest"))]
 ## nh4 = ammonium in mg/L
 ## no2 = Nitrite in mg/L
 ## no3 = Nitrate in mg/L
-## o2_perc = dissolved Oxygen in %
+## o2_mg = dissolved Oxygen in %
 ## ph = pH
 ## po4 = Phosphate in mg/L
 ## water_temp = water temperature
@@ -247,7 +247,7 @@ env_jn$log_mindistf <-log10(env_jn$min_dist_field)
 #### --------- subset to variables of interest ------------##
 ## cl, el_cond, nh4, no3, pH, po4, water_temp, flow, max_sumtu_iv
 ## riffles, curvature, fine_sed, pastures, agriculture, forest, refugium, log_mindistf
-col.names <- c("site", "cl", "el_cond", "po4", "ph", "o2_perc", "flow", "max_sumtu_iv",
+col.names <- c("site", "cl", "el_cond", "po4", "ph", "o2_mg", "flow", "max_sumtu_iv",
                "curvature", "riffles", "fine_sed", "pastures", "water_temp", "agriculture",
                "forest", "refugium", "log_agriarea", "log_mindistf", "lsi", "frac_cv")
 env_jn <- env_jn[col.names]
@@ -255,7 +255,7 @@ env_jn <- env_jn[col.names]
 ## check correlation plots
 pairs(env_jn[,c(2:20)], lower.panel = panel.smooth, upper.panel = panel.cor)
 ## r > 0.7 for agriculture and forest; forest and refugium; max_sumtu_iv and log_agriarea
-## pH and o2_perc
+## pH and o2_mg
 ## remove cl, forest, log_agriarea, ph, curvature, riffles
 env_jn <- env_jn[ , -which(names(env_jn) %in% c("cl", "forest", "log_agriarea", "ph", 
                                                 "curvature", "riffles", "log_mindistf"))]
@@ -270,7 +270,7 @@ sort(vif(env_jn[,-c(1)]))
 env_jn <- env_jn[, -which(names(env_jn) %in% c("water_temp"))]
 sort(vif(env_jn[,-c(1)]))
 ## all vif under 7
-names(env_jn)[2:11] <- c("elCond", "orthoP", "percentO2", "flow", "max_sumTUiv", "fineSed", 
+names(env_jn)[2:11] <- c("elCond", "orthoP", "mgO2", "flow", "max_sumTUiv", "fineSed", 
                          "pastures", "arableLand", "FUS", "ls_hetero")
 
 write.csv(env_jn, file.path(datadir, "environmental_data/env_predictors_june.csv"), row.names = FALSE)
