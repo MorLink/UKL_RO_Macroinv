@@ -607,7 +607,7 @@ sdb_phch <- dbGetQuery(con, "SELECT * FROM phch.sdb_phch")
 sr_phch <- dbGetQuery(con, "SELECT * FROM phch.sr_phch")
 
 ## extract the frequently measured parameters (O2, pH, water_temp, conductivity, flow velocity)
-vars <- c("o2_perc", "water_temp", "ph", "el_cond", "flow_1", "flow_2", "flow_3", "flow1_sdb", "flow2_sdb", "flow_sr")
+vars <- c("o2_mg", "water_temp", "ph", "el_cond", "flow_1", "flow_2", "flow_3", "flow1_sdb", "flow2_sdb", "flow_sr")
 
 ## extract from reg_phch
 reg_sub <- reg_phch[reg_phch$variable %in% vars, c(1,2,4,6)]
@@ -670,7 +670,7 @@ range(phys_clean[phys_clean$variable == "water_temp",4], na.rm = TRUE)
 range(phys_clean[phys_clean$variable == "ph",4], na.rm = TRUE) ## 816 is likely 8.16, check
 #phys_clean[phys_clean$variable == "ph" & phys_clean$value > 9,]
 range(phys_clean[phys_clean$variable == "el_cond",4], na.rm = TRUE)
-range(phys_clean[phys_clean$variable == "o2_perc",4], na.rm = TRUE)
+range(phys_clean[phys_clean$variable == "o2_mg",4], na.rm = TRUE)
 range(phys_clean[phys_clean$variable == "flow",4], na.rm = TRUE)
 
 
@@ -697,7 +697,7 @@ names(sum_lf)[3] <- "measure"
 sum_wide <- dcast(sum_lf, variable + measure ~ site, value.var = "value")
 ## add row that indicates number of observations
 sum_wide <- merge(obs_wide[,1:2], sum_wide, by = "variable", all.y = TRUE)
-sum_wide$unit <- c(rep("mS/cm", 4), rep("m/s", 4), rep("%",4), rep(NA, 4), rep("°C", 4))
+sum_wide$unit <- c(rep("mS/cm", 4), rep("m/s", 4), rep("mg/L",4), rep(NA, 4), rep("°C", 4))
 write.csv(sum_wide, file.path(datadir, "/env_data/summary_stats_wide.csv"), row.names = FALSE)
 
 ## ///////////////////// Add nutrient variables to table /////////////
@@ -716,7 +716,7 @@ reg_nut$value <- ifelse(!is.na(reg_nut$qualifier),
 nut_wide <- dcast(reg_nut, variable ~ site, value.var = "value")
 nut_wide$unit <- c(rep("mg/L", nrow(nut_wide)))
 nut_wide$n <- c(rep(1,nrow(nut_wide)))
-nut_wide$measure <- c(rep(NA, nrow(nut_wide)))
+nut_wide$measure <- c(rep("raw values", nrow(nut_wide)))
         
 ## combine both tables
 env_comb <- rbind(sum_wide, nut_wide)
@@ -876,14 +876,14 @@ habi_wide <- dcast(habi_melt, variable ~ site, value.var = "value")
 ## add columns with units, number of measurements etc
 habi_wide$unit <- c("m", "%", "%", NA, "m", NA, "m", "m", "cm", "NA", "%", "%", "%")
 habi_wide$n <- c(rep("1", nrow(habi_wide)))
-habi_wide$measure <- c(rep(NA, nrow(habi_wide)))
+habi_wide$measure <- c(rep("raw values", nrow(habi_wide)))
 ## change order of columns
 
 ## combine with env_comb
 table_fin <- rbind(env_comb, habi_wide)
 table_fin <- table_fin[,c(1,23,3,2,4:22)]
 ## save table
-write.csv(table_fin, file.path(datadir, "/env_data/SI_maintable.csv"), row.names = FALSE)
+write.csv(table_fin, file.path(datadir, "/environmental_data/SI_maintable.csv"), row.names = FALSE)
 
 
 ###### Section 15 Plot for the SPEAR values in April and June ######
