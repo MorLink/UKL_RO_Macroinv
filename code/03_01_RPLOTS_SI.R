@@ -477,6 +477,7 @@ ggsave(file= "./plots/SPEAR.tiff", plot= spear_plot, width = 3.5, height = 4.5)
 ## See RDA Scripts 
 
 ###### Section 6 Table with environmental data ######
+library(tidyr)
 jn <- read.csv(file.path(datadir, "environmental_data/env_predictors_june.csv"), stringsAsFactors = FALSE)
 
 ## multiply fine_sed, pastures, arable_land with 100 to get %
@@ -501,12 +502,12 @@ jn.stats.tidy <- jn.sum %>% gather(stat, val) %>%
 names(jn.stats.tidy) <- c("Variable", "Minimum", "Maximum", "Mean", "SD")
 jn.stats.tidy %>% mutate(across(where(is.numeric), round, 3))
 jn.stats.tidy$Variable = c("% arable land", "elec. Conductivity", "% fine sediment", "flow velocity m/s",
-                           "ls shape index", "max sumTU iv", "ortho-Phosphate mg/L", "% pastures", "% O2")
+                           "ls shape index", "max sumTU iv", "O2 mg/L", "ortho-Phosphate mg/L", "% pastures")
 jn.stats.tidy <- jn.stats.tidy %>% mutate(across(where(is.numeric), round, 2))
 ## change order of rows
-jn.stats.tidy <- jn.stats.tidy[c(1,8,5,3,9,6,2,4,7),]
+jn.stats.tidy <- jn.stats.tidy[c(1,9,5,3,6,2,7,8,4),]
 
-jn.stats.tidy$unit <- c("%", "%", "NA", "%", "%", "NA", "mS/cm", "m/s", "mg/L")
+jn.stats.tidy$unit <- c("%", "%", "NA", "%", "NA", "mS/cm", "mg/L", "mg/L","m/s")
 jn.stats.tidy <- jn.stats.tidy[,c(1,6,2:5)]
 
 ufs_df <- data.frame(Variable = "FUS",
