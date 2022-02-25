@@ -272,7 +272,7 @@ spear_mod <- glmnet(x1, y1, alpha = res_spear_elnet$alpha, lambda = res_spear_el
 coef.glmnet(spear_mod)
 ## get regression coefficients for model with best lambda
 coef_spear_elnet <- data.frame(as.matrix(coef.glmnet(spear_mod)))
-names(eptp_spear_elnet) <- "spear_pest"
+names(coef_spear_elnet) <- "spear_pest"
 spear_r2 <- spear_mod$dev.ratio
 spear_lam <- res_spear_elnet$lambda
 spear_alpha <- res_spear_elnet$alpha
